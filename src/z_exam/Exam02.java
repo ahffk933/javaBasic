@@ -126,3 +126,5 @@ c. float - 0.0 //f붙어야함
 d. int - 0
 e. long - 0 //L붙어야함 
 f. String - ""*/ //null*
+
+//집집집집 가고싶당
