@@ -1,0 +1,7 @@
+GITHUB에 공유가 되어있는 상태
+
+1. GITHUB에서 저장소 CLONE
+2. ECLIPES - 저장소 추가 (git repositories)
+3. eclipes - 추가된 저장소 선택,
+			우클릭 projects import
+4. package/ 
